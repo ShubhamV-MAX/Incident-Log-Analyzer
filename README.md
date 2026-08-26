@@ -315,22 +315,6 @@ Error Messages:
 The Analysis is Completed.
 ```
 
-## Author
-
-**Optional by Shubham Vinod Vishwakarma**
-
-This script prevents the `main()` function from running automatically when imported as a module into another Python file by using the `if __name__ == "__main__":` guard.
-
----
-
-## License
-
-[Specify your license here, e.g., MIT, GPL, etc.]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
 ## Support
 
 [Add contact or support information if needed]
