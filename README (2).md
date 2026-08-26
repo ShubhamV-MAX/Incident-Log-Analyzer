@@ -135,13 +135,13 @@ If errors are found, the report displays each error with:
             Log Analysis Results
 ==================================================
 
-Total Entries: 127
+Total Entries: 117
 
 INFO Entries: 89
 
 WARNING Entries: 25
 
-ERROR Entries: 13
+ERROR Entries: 3
 
 ==================================================
             Error Messages
