@@ -173,6 +173,4 @@ def main():
     else:
         print("\nAnalysis Failed. Check your log file.")
 
-
-if __name__ == "__main__":
-    main()
+main()
